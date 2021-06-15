@@ -1,5 +1,6 @@
-# projCatWalk
-This repo contains a product overview project for an online e-commerce website. 
+# Kentomeister
+This app takes data provided by an existing API and displays it in a browser. 
+
 
 ## Tech Stack
 
@@ -15,6 +16,9 @@ This project uses a number of open source projects to work properly:
 - Raju Gharti - Related Products
 - Ryan Pannone - Questions & Answers
 - Tomas Rodriguez - Ratings & Reviews
+
+## Image Gallery Demo
+<img src="https://media.giphy.com/media/2BwHMPM6NQRBwm4bAO/giphy.gif">
 
 ## SETUP
 Run the following command in the terminal:
